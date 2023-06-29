@@ -17,7 +17,7 @@ config = {
     "user_id": "",
     "backup_folder_path": "/path/to/backup/folder/",
     "excluded_libraries": [],
-    "supported_formats": [".mkv", ".mp4"]
+    "supported_formats": [".mkv", ".mp4", ".mp3", ".wav", ".flac", ".aac", ".avi", ".mov"]
 }
 
 # Global variables
