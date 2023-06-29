@@ -18,7 +18,7 @@ This is a Python script that automates the process of moving watched TV show epi
 2. Clone or download this repository to your local machine.
 3. Update the configuration in the script (`config` dictionary) with your Jellyfin server details and backup folder path.
 4. Install the required dependencies by running the command: `pip install -r requirements.txt`
-5. Run the script using the command: `python jellyfin_watched_mover.py`
+5. Run the script using the command: `python Jellyfin media automation script.py`
 6. The script will run at the scheduled times (02:00 and 07:00 by default) and move watched TV show episodes to the backup folder.
 
 ## License
